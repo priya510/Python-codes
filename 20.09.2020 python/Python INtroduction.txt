@@ -1,0 +1,9 @@
+Python Programming Language
+	AI, ML, Data science, Robotics
+
+
+Python IDLE
+	https://www.python.org/
+
+Anaconda Navigator
+	https://www.anaconda.com/products/individual

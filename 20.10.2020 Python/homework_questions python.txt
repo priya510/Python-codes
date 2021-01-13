@@ -1,0 +1,16 @@
+create following csv file.
+
+	customers
+		-customerid
+		-customername
+		-amount
+		-gender
+		-year
+	
+	Store atleast ten customer details in csv file.
+		
+
+
+	1) Display column chart for percentage of amount gender wise
+	2) Display pie chart for amount column gender wise
+	3) Display column chart for sum of amount year wise

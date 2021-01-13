@@ -1,0 +1,14 @@
+WAP in python to accept a number from user and display 1......n.
+WAP in python to accept a number from user and print n.....1.
+WAP in python to accept two numbers from user and print m.....n.
+		m = start value
+		n = end   value
+
+
+WAP in python to print all even numbers between 1 to 20.	
+WAP in python to print all odd numbers between 1 to 20.	
+WAP in python to print square of first 10 natural numbers.
+
+
+
+

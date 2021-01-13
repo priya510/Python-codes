@@ -1,0 +1,9 @@
+
+
+WAP in python to accept five number from user and print only even numbers.
+WAP in python to accept five number from user and print only odd  numbers.
+WAP in python to create a tuple and display numbers at even index.
+
+		t=(2,4,8,9,5)
+		output:
+			2,8,5

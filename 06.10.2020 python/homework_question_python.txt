@@ -1,0 +1,10 @@
+
+
+WAP in python to create a Math class and all possible math 
+functionalities.
+
+
+WAP in python to accept three product details from user
+and display. 
+
+	Note: Use class, functions & List concept.

@@ -1,0 +1,18 @@
+
+WAP in python to store book details. There are two type of books.
+Hardware book and Software book. Hardware book contains book_id, author, price, category.
+whereas Software book contains book_id, author, price and version.
+
+Book
+	book_id
+	author
+	price
+
+HardwareBook
+	category
+
+SoftwareBook
+	version
+
+
+

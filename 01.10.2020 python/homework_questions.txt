@@ -1,0 +1,15 @@
+
+
+'''WAP in python to create following functions:
+
+1) average(a,b,c,d)
+2) sum(a,b,c)
+3) product(a,b,c)
+4) max(a,b)
+5) min(a,b,c)
+6) percentage(a,b,c)
+'''
+
+
+
+

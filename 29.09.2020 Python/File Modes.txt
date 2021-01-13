@@ -1,0 +1,17 @@
+
+
+File Modes:
+
+	Base Modes
+			- Read 			(r)
+			- Write 		(w)
+			- Append		(a)
+
+	Binary Modes
+			- Read  Binary		(rb)
+			- Write Binary  	(wb)
+
+	Other Modes
+			- Append + Read		(a+)
+			- Read   + Append	(r+)
+			- Write  + Read		(w+)

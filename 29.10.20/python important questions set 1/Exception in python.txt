@@ -1,0 +1,11 @@
+Error:
+
+	1) Compile Time Error
+	2) Logical Error
+	3) Run Time Error		- Exceptions
+
+Handling Exception :
+
+try
+except
+else

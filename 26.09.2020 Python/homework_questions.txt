@@ -1,0 +1,7 @@
+
+
+WAP in python to create a list and display greatest number in list.
+WAP in python to create a list and display second smallest number in list.
+WAP in python to accept five numbers in list and display sum of even numbers.
+WAP in python to accept five numbers from user and display only unique numbers. Use set.
+

@@ -1,0 +1,7 @@
+Question 1: From given data set print first and last five rows.
+Question 2: Find the most expensive car company name
+Question 3: Print All Toyota Cars details
+Question 4: Count total cars per company (R & D)
+Question 5: Find each company’s Higesht price car
+Question 6: Find the average mileage of each car making company
+Question 7: Sort all cars by Price column (R & D)
